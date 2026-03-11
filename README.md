@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Live URL** | `https://tcl-portal.vercel.app` *(deploy pending)* |
+| **Live URL** | `[https://tcl-portal.vercel.app](https://navneet-tcl-portal.vercel.app/)` |
 | **Test Email** | `madison.clarke@alphaphi.org` |
 | **Test Password** | `password123` |
 
